@@ -6,5 +6,5 @@ Clone this repository and use it as the basis for your own 'Digital-Skills" repo
 This repo contains:
 
 - An ipython notebook
-- Two images
+- Test images
 - A readme file
